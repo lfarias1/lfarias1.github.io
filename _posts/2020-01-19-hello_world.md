@@ -8,7 +8,7 @@ tagline: "\n\nO primeiro post! \n\n\n"
 header:
   overlay_image: /assets/images/cosmos.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  teaser: "/assets/images/cosmos.png"
+  teaser: https://github.com/lfarias1/lfarias1/github.io/assets/images/cosmos.png
   
 ---
 
