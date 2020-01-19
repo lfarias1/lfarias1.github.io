@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, world!"
 categories: [Data Science, Machine Learning]
-related_image: images/cosmos.png
+image: images/cosmos.png
 ---
 
 # Hello, world!
