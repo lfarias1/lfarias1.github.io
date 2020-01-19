@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "pt-BR"
 title                    : "Ciência de Dados"
 title_separator          : "-"
-subtitle                 : "One discipline to rule them all" # site tagline that appears below site title in masthead
+subtitle                 : "Ensinar é a melhor forma de aprender" # site tagline that appears below site title in masthead
 name                     : "Lucas Farias"
 description              : "Um blog para compartilhar conceitos e ideias sobre Ciência de Dados"
 url                      : "https://lfarias1.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
