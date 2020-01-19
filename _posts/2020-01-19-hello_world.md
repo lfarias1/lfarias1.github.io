@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Hello, world!"
 feature-img: "/assets/images/cosmos.png"
 ---
