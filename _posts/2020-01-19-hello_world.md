@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Hello, world!"
-categories: [Data Science, Machine Learning]
-image: images/cosmos.png
+image: "images/cosmos.png"
 ---
 
 # Hello, world!
