@@ -1,3 +1,9 @@
+---
+layout: posts
+title:  "Hello, world!"
+feature-img: "images/cosmos.png"
+---
+
 # Hello, world!
 
 Olá!
