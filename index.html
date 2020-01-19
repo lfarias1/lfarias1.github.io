@@ -13,6 +13,6 @@ paginate_path: /page:num/
 ---
 
 {% for post in site.posts %}
-  <img src="{% post.feature_img %}" />
+  <img src="{% post.header.overlay_image %}" />
 {% endfor %}
 ```
