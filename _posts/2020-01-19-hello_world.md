@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hello, world!"
-feature-image: "images/cosmos.png"
+title:  Hello, world!
+feature-img: "images/cosmos.png"
 ---
 
 # Hello, world!
