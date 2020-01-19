@@ -4,9 +4,10 @@ title:  "Hello, world!"
 subtitle: "Meu primeiro post! (De muitos, espero)"
 classes: wide
 toc: false
+tagline: "O primeiro post!"
 header:
   overlay_image: /assets/images/cosmos.png
-  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.9 # same as adding an opacity of 0.5 to a black background
   caption: "Há mais coisas entre o céu e a Terra do que sonha a nossa vã filosofia."
 ---
 
