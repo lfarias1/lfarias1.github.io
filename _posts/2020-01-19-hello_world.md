@@ -2,6 +2,7 @@
 
 layout: single
 title:  "Hello, world!"
+img: /assets/images/cosmos.png
 classes: wide
 toc: false
 tagline: "\n\nO primeiro post! \n\n\n"
