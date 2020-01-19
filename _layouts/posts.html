@@ -27,3 +27,10 @@ layout: archive
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
+
+<article>
+  {% if page.feature-img %}
+    <img class="feature-image" src={{ page.feature-img }} alt="Feature Image"/>
+  {% endif %}
+  <section class="post-content">{{ content }}</section>
+</article>
