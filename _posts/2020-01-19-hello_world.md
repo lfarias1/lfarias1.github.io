@@ -1,6 +1,8 @@
 ---
 layout: single
 title:  "Hello, world!"
+classes: wide
+toc: true
 feature-img: "/assets/images/cosmos.png"
 ---
 
