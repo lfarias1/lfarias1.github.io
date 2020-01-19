@@ -1,9 +1,13 @@
 ---
 layout: single
 title:  "Hello, world!"
+subtitle: "Meu primeiro post! (De muitos, espero)"
 classes: wide
-toc: true
-feature-img: "/assets/images/cosmos.png"
+toc: false
+header:
+  overlay_image: /assets/images/cosmos.png
+  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
+  caption: "Há mais coisas entre o céu e a Terra do que sonha a nossa vã filosofia."
 ---
 
 # Hello, world!
