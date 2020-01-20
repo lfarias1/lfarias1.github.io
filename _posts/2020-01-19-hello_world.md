@@ -7,7 +7,7 @@ toc: false
 tagline: "\n\nO primeiro post! \n\n\n"
 header:
   overlay_image: /assets/images/ai.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.95 # same as adding an opacity of 0.5 to a black background
   teaser: assets/images/ai.jpg
   
 ---
