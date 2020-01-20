@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/eu.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cientista de Dados em eterna construção"
   location         : "São Paulo, SP"
-  email            : ""
+  email            : "lucas.farias.de.almeida@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
